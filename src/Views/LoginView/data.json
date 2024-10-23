@@ -1,0 +1,62 @@
+[
+  {
+      "NAME": "Abouo",
+      "SURNAMES": "Audrey",
+      "POST": "Téléc.",
+      "TEMPS_MOYEN_PAR_APPEL": "3:45",
+      "SCORE": 85,
+      "MAIL": "audrey.abouo@example.com",  
+      "PASSWORD": "password123",  
+      "ROLE": "Agent"
+  },
+  {
+      "NAME": "Ecra",
+      "SURNAMES": "Alloué Marie",
+      "POST": "Téléc.",
+      "TEMPS_MOYEN_PAR_APPEL": "4:10",
+      "SCORE": 78,
+      "MAIL": "alloue.ecra@example.com",
+      "PASSWORD": "password123",
+      "ROLE": "Agent"
+  },
+  {
+      "NAME": "Diakité",
+      "SURNAMES": "Binta",
+      "POST": "Téléc.",
+      "TEMPS_MOYEN_PAR_APPEL": "5:20",
+      "SCORE": 90,
+      "MAIL": "binta.diakite@example.com",
+      "PASSWORD": "password123",
+      "ROLE": "Agent"
+  },
+  {
+      "NAME": "Dénis",
+      "SURNAMES": "Raïssa",
+      "POST": "Téléc.",
+      "TEMPS_MOYEN_PAR_APPEL": "4:00",
+      "SCORE": 82,
+      "MAIL": "raissa.denis@example.com",
+      "PASSWORD": "password123",
+      "ROLE": "Agent"
+  },
+  {
+      "NAME": "Essis",
+      "SURNAMES": "Roland",
+      "POST": "Manager",
+      "TEMPS_MOYEN_PAR_APPEL": "2:50",
+      "SCORE": 92,
+      "MAIL": "roland.essis@example.com",
+      "PASSWORD": "password123",
+      "ROLE": "admin"
+  },
+  {
+    "NAME": "admin",
+    "SURNAMES": "admin",
+    "POST": "admin",
+    "TEMPS_MOYEN_PAR_APPEL": "infinity",
+    "SCORE": 10000000,
+    "MAIL": "admin@admin",
+    "PASSWORD": "admin",
+    "ROLE": "admin"
+}
+]
